@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is faried elrewany
-![][(https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy.gif)](https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy-downsized.gif)
+
+![](https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy-downsized.gif)
 
 Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
 
