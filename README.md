@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/F1MYXgVuuz9KqtUiop/giphy-downsized-large.gif">
+<img src="https://media.giphy.com/media/F1MYXgVuuz9KqtUiop/giphy-downsized-large.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--5GWef34n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/of34es53m3wuibmll7aa.png">
 <!--
 **faried-elrewany/faried-elrewany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
