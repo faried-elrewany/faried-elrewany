@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 ![](https://media.giphy.com/media/R3pYAZTwSAmJbykC9B/giphy.gif)
 
 Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
