@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is faried elrewany
+
 ![](https://media.giphy.com/media/R3pYAZTwSAmJbykC9B/giphy.gif)
 
 Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
