@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is faried elrewany
-![](https://media.giphy.com/media/F1MYXgVuuz9KqtUiop/giphy-downsized-large.gif)
+![](https://media0.giphy.com/media/F1MYXgVuuz9KqtUiop/giphy.gif?cid=790b761130b9850202c465ac41adc7dcd71ee5f8b15d1b50&rid=giphy.gif&ct=g)
 
 
 Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
@@ -14,5 +14,4 @@ Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faried-elrewany)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faried-elrewany&show_icons=true)  
-
 
