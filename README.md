@@ -12,3 +12,5 @@ Skills:  REACT JS/JavaScript / HTML / CSS/Tailwind Css
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faried-elrewany&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
