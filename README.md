@@ -1,6 +1,6 @@
-### <p align="center"> Hi there 👋</p>
+###  Hi there 👋
 
-### <p align="center">my name is faried elrewany</p>
+### my name is faried elrewany
 
 ##### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
