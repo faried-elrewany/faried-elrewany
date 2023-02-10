@@ -1,6 +1,4 @@
-###  Hi there 👋
-
-### my name is faried elrewany
+###  Hi there 👋, my name is faried elrewany
 
 ##### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
