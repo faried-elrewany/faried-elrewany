@@ -2,12 +2,11 @@
 
 ### <p align="center">my name is faried elrewany</p>
 
-##### <p align="center">Front-end web developer with a passion for creating beautiful and user-friendly websites
+##### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
-</p>
-<p align="center">
+
  <img  src="https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy-downsized.gif"/>
-</p>
+
 
 ### Skills: REACT JS/JavaScript / HTML / CSS/Tailwind Css
 
