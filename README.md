@@ -1,4 +1,4 @@
-##  Hi there 👋, my name is [Faried Elrewany ](https://faried-elrewany-portfolio.netlify.app/)
+##  Hi there 👋, my name is [Faried El rewany ](https://faried-elrewany-portfolio.netlify.app/)
 
 ### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
