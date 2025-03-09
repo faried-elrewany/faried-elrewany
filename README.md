@@ -4,7 +4,6 @@
 
 
 
- <img  src="https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy-downsized.gif"/>
 
 
 ### Skills: Angular / Typescript / primeng /JavaScript / HTML / CSS / SCSS / Tailwind Css/ MUI5 / ReactJs
