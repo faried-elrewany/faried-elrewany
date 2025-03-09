@@ -1,4 +1,4 @@
-##  Hi there 👋, my name is [Faried El rewany ](https://faried-elrewany-portfolio.netlify.app/)
+##  Hi there 👋, my name is [Faried El rewany ](https://faried-elrewany.netlify.app/)
 
 ### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
@@ -7,9 +7,8 @@
  <img  src="https://media.giphy.com/media/N1JwHqRmh7j0hqZPUC/giphy-downsized.gif"/>
 
 
-### Skills: REACT JS /JavaScript / HTML / CSS / SCSS / Tailwind Css/ MUI5
+### Skills: Angular / Typescript / primeng /JavaScript / HTML / CSS / SCSS / Tailwind Css/ MUI5 / ReactJs
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faried-elrewany) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faried-elrewany/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/faried-elrewany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/_Reka_)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
