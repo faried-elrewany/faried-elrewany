@@ -1,4 +1,4 @@
-##  Hi there 👋, my name is [Faried El rewany ](https://faried-elrewany.netlify.app/)
+##  Hi there 👋, my name is [Faried El rewany ](https://faried-elrewany.vercel.app/)
 
 ### Front-end web developer with a passion for creating beautiful and user-friendly websites
 
